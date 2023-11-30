@@ -4,4 +4,3 @@ Earth
 Mars
 Jupiter
 Saturn
-Jupiter
