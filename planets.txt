@@ -1,2 +1,4 @@
 Earth
 Mars
+Venus
+Mars
